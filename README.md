@@ -4,4 +4,4 @@ I'm a computer engineering student at Pontifical Catholic University of Paraná 
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,flutter,dart,swift,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,flutter,dart,swift,rust,git)](https://skillicons.dev)
