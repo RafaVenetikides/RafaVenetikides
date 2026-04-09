@@ -5,8 +5,8 @@ Beyond app development, I’m also deeply interested in exploring the field of A
 
 ## What i'm doing
 
-I’m currently completing my Bachelor’s degree in Computer Engineering at the **Pontifical Catholic University of Paraná (PUCPR)** — expected to graduate by the end of 2025.
-I’m also part of the **Apple Developer Academy | PUCPR**, where I focus on developing innovative iOS projects and improving my software development skills.
+I’ve recently finished my Bachelor’s degree in Computer Engineering at the **Pontifical Catholic University of Paraná (PUCPR)** — graduated with honorable mention for my outstanding academic performance.
+I’m also a student at the **Apple Developer Academy | PUCPR**, where I focus on developing innovative iOS projects and improving my software development skills.
 
 ## My Skills
 
