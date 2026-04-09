@@ -1,6 +1,6 @@
 # Hi! I'm Rafael Honorio Venetikides
 
-I’m a Computer Engineering and iOS developer passionate about building mobile applications.
+I’m a Computer Engineer and iOS developer passionate about building mobile applications.
 Beyond app development, I’m also deeply interested in exploring the field of Artificial Intelligence.
 
 ## What i'm doing
