@@ -11,3 +11,7 @@ I’m also a student at the **Apple Developer Academy | PUCPR**, where I focus o
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,flutter,dart,swift,rust,git)](https://skillicons.dev)
+
+## Languages
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaVenetikides&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
