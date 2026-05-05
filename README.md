@@ -14,4 +14,4 @@ I’m also a student at the **Apple Developer Academy | PUCPR**, where I focus o
 
 ## Languages
 
-[![RafaVenetikides](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaVenetikides&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafaVenetikides&layout=compact)
