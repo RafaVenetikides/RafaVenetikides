@@ -22,6 +22,6 @@ I’ve published 3 apps on the App Store, including [Pockly](https://github.com/
 ## Socials
 Feel free to get in touch with me through the links below!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-venetikides/)
-[![Email](https://img.shields.io/badge/Email-seuemail%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafavenetikides@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Perfil-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafavenetikides/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Honorio%20Venetikides-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-venetikides/)
+[![Email](https://img.shields.io/badge/Email-rafavenetikides%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafavenetikides@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-rafavenetikides-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafavenetikides/)
