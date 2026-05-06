@@ -13,7 +13,7 @@ I’ve published 3 apps on the App Store, including [Pockly](https://github.com/
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,flutter,dart,swift,rust,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,flutter,dart,apple,swift,rust,git)](https://skillicons.dev)
 
 ## Languages
 
