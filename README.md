@@ -5,8 +5,9 @@ Beyond app development, I’m also deeply interested in exploring the field of A
 
 ## What i'm doing
 
-I’ve recently finished my Bachelor’s degree in Computer Engineering at the **Pontifical Catholic University of Paraná (PUCPR)** — graduated with honorable mention for my outstanding academic performance.
-I’m also a student at the **Apple Developer Academy | PUCPR**, where I focus on developing innovative iOS projects and improving my software development skills.
+I’ve recently finished my Bachelor’s degree in Computer Engineering at the **Pontifical Catholic University of Paraná (PUCPR)** — graduated with honorable mention for my outstanding academic performance. Currently, I'm doing a postgraduation in **Artificial Inteligence and Data Science** also at **PUCPR**.
+
+I’m also a student at the **Apple Developer Academy | PUCPR**, where I focus on developing innovative iOS projects and improving my software development skills. I've currently published 3 apps on the App Store, [Pockly](https://github.com/RafaVenetikides/Pockly) ([App Store](https://apps.apple.com/us/app/pockly/id6753804226)) and [Convolve](https://github.com/RafaVenetikides/Convolve) ([App Store](https://apps.apple.com/us/app/convolve-convolution-101/id6759914354)) you can check out.
 
 ## My Skills
 
