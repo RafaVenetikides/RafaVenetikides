@@ -9,7 +9,7 @@ I’ve recently finished my Bachelor’s degree in Computer Engineering at the *
 
 I’m also a student at the **Apple Developer Academy | PUCPR**, where I focus on developing innovative iOS projects and improving my software development skills.
 
-I’ve published 3 apps on the App Store, including [Pockly](https://github.com/RafaVenetikides/Pockly) ([App Store](https://apps.apple.com/us/app/pockly/id6753804226)) and [Convolve](https://github.com/RafaVenetikides/Convolve) ([App Store](https://apps.apple.com/us/app/convolve-convolution-101/id6759914354)).
+I’ve published 3 apps on the App Store, [Pockly](https://github.com/RafaVenetikides/Pockly) ([App Store](https://apps.apple.com/us/app/pockly/id6753804226)), [Convolve](https://github.com/RafaVenetikides/Convolve) ([App Store](https://apps.apple.com/us/app/convolve-convolution-101/id6759914354)) and Cashy ([App Store](https://apps.apple.com/br/app/cashy-finan%C3%A7as-autom%C3%A1ticas/id6761138913)).
 
 ## My Skills
 
