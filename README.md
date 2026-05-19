@@ -1,4 +1,4 @@
-# Hi! I'm Rafael Honorio Venetikides
+# Hi! I'm Frehse
 
 I’m a Computer Engineer and iOS developer passionate about building mobile applications.
 Beyond app development, I’m also deeply interested in exploring the field of Artificial Intelligence.
