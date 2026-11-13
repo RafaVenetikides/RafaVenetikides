@@ -15,10 +15,6 @@ I’ve published 3 apps on the App Store, [Pockly](https://github.com/RafaVeneti
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,flutter,dart,apple,swift,rust,git)](https://skillicons.dev)
 
-## Languages
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafaVenetikides&layout=compact&hide=javascript&theme=synthwave)
-
 ## Socials
 Feel free to get in touch with me through the links below!
 
